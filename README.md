@@ -2,7 +2,7 @@
 
 I'm Vitória Nunes, I currently work as a Data Analyst at RHTech. I'm passionate about solving problems using data and this is my GitHub profile to share and document what I'm learning.
 
-👩‍💻 More about me: [Linkdin](https://www.linkedin.com/in/nunesvitoria/)
+👩‍💻 More about me: [Linkedin](https://www.linkedin.com/in/nunesvitoria/)
 
 <!--
 **santosnvit/santosnvit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
